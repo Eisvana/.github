@@ -1,2 +1,2 @@
 # .github
-Readme for the org
+Files for the whole org
