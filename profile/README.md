@@ -15,6 +15,8 @@ You can find us on:
 - [Discord](https://discord.gg/Czu3VvjBaa)
 - [Wiki](https://nomanssky.fandom.com/wiki/Eisvana)
 
+[![Discord](https://img.shields.io/discord/812176491617976330?style=for-the-badge)][discord]
+
 <!--
 
 **Here are some ideas to get you started:**
